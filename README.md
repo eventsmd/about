@@ -12,7 +12,7 @@ There was a successfull start with proof of concept with water outages and teleg
 
 # Architecture
 
-![Scheme](/img/scheme.png)
+![Scheme](/img/scheme.jpg)
 
 There are planned list of parsers whatever it could be - water, electricity supplier, local government, courts, so on.
 
